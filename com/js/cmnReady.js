@@ -2,10 +2,10 @@
  * class 사용 
  * 
  * entrKey - fn_enter()함수 호출
- * intCheck - 숫자만 입력 가능
- * floatCheck - 소수점 숫자만 입력 가능
- * notHangul - 영문,숫자만 입력 가능
- * timeCheck - 시간,분 체크
+ * intCheck - Only Number
+ * floatCheck - Only Float
+ * notHangul - not Hangul
+ * timeCheck - Time Check
  * 
 **/
 $(document).ready(function() {
